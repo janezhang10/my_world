@@ -30,9 +30,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd7de38-b8ec-44c9-b8ce-a17cc4503915" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/byow/Core/load.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="cbd7de38-b8ec-44c9-b8ce-a17cc4503915" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kD4UiWnh1vl7QZlS1y0xde0D9N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,7 +54,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../library-fa20/javalib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -250,28 +248,28 @@
       <screen x="3840" y="326" width="2560" height="1400" />
     </state>
     <state x="5446" y="809" key="FileChooserDialogImpl/0.0.1536.824/3840.326.2560.1400@3840.326.2560.1400" timestamp="1606539490777" />
-    <state width="1497" height="260" key="GridCell.Tab.0.bottom" timestamp="1606888744336">
-      <screen x="3840" y="326" width="2560" height="1400" />
+    <state width="1480" height="150" key="GridCell.Tab.0.bottom" timestamp="1607026193812">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1226" height="82" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.326.2560.1400@0.0.1536.824" timestamp="1606545323350" />
+    <state width="1480" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.326.2560.1400@0.0.1536.824" timestamp="1607026193812" />
     <state width="1497" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.326.2560.1400@3840.326.2560.1400" timestamp="1606888744336" />
     <state width="1410" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606720475586" />
-    <state width="1497" height="260" key="GridCell.Tab.0.center" timestamp="1606888744336">
-      <screen x="3840" y="326" width="2560" height="1400" />
+    <state width="1480" height="150" key="GridCell.Tab.0.center" timestamp="1607026193811">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1226" height="82" key="GridCell.Tab.0.center/0.0.1536.824/3840.326.2560.1400@0.0.1536.824" timestamp="1606545323350" />
+    <state width="1480" height="150" key="GridCell.Tab.0.center/0.0.1536.824/3840.326.2560.1400@0.0.1536.824" timestamp="1607026193811" />
     <state width="1497" height="260" key="GridCell.Tab.0.center/0.0.1536.824/3840.326.2560.1400@3840.326.2560.1400" timestamp="1606888744336" />
     <state width="1410" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606720475586" />
-    <state width="1497" height="260" key="GridCell.Tab.0.left" timestamp="1606888744336">
-      <screen x="3840" y="326" width="2560" height="1400" />
+    <state width="1480" height="150" key="GridCell.Tab.0.left" timestamp="1607026193811">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1226" height="82" key="GridCell.Tab.0.left/0.0.1536.824/3840.326.2560.1400@0.0.1536.824" timestamp="1606545323349" />
+    <state width="1480" height="150" key="GridCell.Tab.0.left/0.0.1536.824/3840.326.2560.1400@0.0.1536.824" timestamp="1607026193811" />
     <state width="1497" height="260" key="GridCell.Tab.0.left/0.0.1536.824/3840.326.2560.1400@3840.326.2560.1400" timestamp="1606888744336" />
     <state width="1410" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606720475586" />
-    <state width="1497" height="260" key="GridCell.Tab.0.right" timestamp="1606888744336">
-      <screen x="3840" y="326" width="2560" height="1400" />
+    <state width="1480" height="150" key="GridCell.Tab.0.right" timestamp="1607026193811">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1226" height="82" key="GridCell.Tab.0.right/0.0.1536.824/3840.326.2560.1400@0.0.1536.824" timestamp="1606545323350" />
+    <state width="1480" height="150" key="GridCell.Tab.0.right/0.0.1536.824/3840.326.2560.1400@0.0.1536.824" timestamp="1607026193811" />
     <state width="1497" height="260" key="GridCell.Tab.0.right/0.0.1536.824/3840.326.2560.1400@3840.326.2560.1400" timestamp="1606888744336" />
     <state width="1410" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606720475586" />
     <state width="1497" height="251" key="GridCell.Tab.1.bottom" timestamp="1606732234524">
@@ -322,6 +320,10 @@
       <screen x="3840" y="326" width="2560" height="1400" />
     </state>
     <state x="4494" y="789" key="MultipleFileMergeDialog/0.0.1536.824/3840.326.2560.1400@3840.326.2560.1400" timestamp="1606717645800" />
+    <state x="499" y="0" key="RollbackChangesDialog" timestamp="1607025768112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="0" key="RollbackChangesDialog/0.0.1536.824/3840.326.2560.1400@0.0.1536.824" timestamp="1607025768112" />
     <state x="4087" y="501" key="SettingsEditor" timestamp="1606574738615">
       <screen x="3840" y="326" width="2560" height="1400" />
     </state>
